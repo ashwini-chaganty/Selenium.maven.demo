@@ -88,7 +88,7 @@ public class AppTest
 		} 
 		*/
 		
-		System.out.println("Ran this");
+		System.out.println("Ran this code");
 		
 	//	chromedriver.findElement(By.xpath("//A[@class='btn opt-btn'][text()='Enroll now']")).click();
 		/*
