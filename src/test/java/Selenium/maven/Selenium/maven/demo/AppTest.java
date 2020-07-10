@@ -112,6 +112,7 @@ public class AppTest
 		//chromedriver.quit();
 		System.out.println("ran this");
 		*/
+		chromedriver.close();
 	  }
   }
    
