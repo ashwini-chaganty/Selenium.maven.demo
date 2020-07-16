@@ -113,6 +113,7 @@ public class AppTest
 		System.out.println("ran this");
 		*/
 		chromedriver.close();
+		System.out.println("RanTHIS");
 	  }
   }
    
