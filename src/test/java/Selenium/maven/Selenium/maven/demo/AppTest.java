@@ -113,7 +113,7 @@ public class AppTest
 		System.out.println("ran this");
 		*/
 		chromedriver.close();
-		System.out.println("GIT COMMANDS");
+		System.out.println("GIT COMMANDS in BRANCH");
 	  }
   }
    
